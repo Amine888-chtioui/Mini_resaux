@@ -1,0 +1,60 @@
+# Fichiers de configuration sensibles
+includes/config.local.php
+
+# Logs et erreurs
+logs/
+*.log
+error.log
+
+# Uploads de fichiers
+uploads/photos/*
+uploads/messages/*
+!uploads/.gitkeep
+!uploads/photos/.gitkeep
+!uploads/messages/.gitkeep
+
+# Cache et temporaires
+cache/
+tmp/
+*.tmp
+*.cache
+
+# Fichiers de l'IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# dépendances composer (optionnel)
+# vendor/
+
+# Fichiers de test et développement
+test_*
+debug_*
+diagnostic_*
+fix_*
+install_*
+
+# Base de données locales
+*.sql
+*.db
+*.sqlite
+
+# Fichiers de backup
+*_old.php
+*_backup.php
+*_copy.php
+
+# Documentation générée
+docs/
+phpdoc/
+
+# XAMPP et environnement local
+xampp/
+.htaccess.local

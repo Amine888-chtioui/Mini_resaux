@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none">
+  <circle cx="180" cy="180" r="160" fill="#dbeafe"/>
+  <circle cx="180" cy="180" r="120" fill="#93c5fd" opacity=".5"/>
+  <circle cx="180" cy="180" r="80" fill="#2563eb" opacity=".35"/>
+  <path d="M180 120l48 28v56l-48 28-48-28v-56l48-28z" fill="#1d4ed8" opacity=".9"/>
+  <circle cx="180" cy="168" r="16" fill="#fff"/>
+</svg>

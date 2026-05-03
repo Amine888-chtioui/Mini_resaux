@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t">
+  <title id="t">ENSIASD Taroudant</title>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1d4ed8"/>
+      <stop offset="100%" style="stop-color:#2563eb"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#93c5fd"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#g)"/>
+  <path d="M100 36 L100 164 M68 52 L100 36 L132 52 M68 148 L100 164 L132 148" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="52" y="78" width="96" height="56" rx="6" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="3"/>
+  <text x="100" y="118" text-anchor="middle" fill="#fff" font-family="system-ui,Segoe UI,sans-serif" font-size="20" font-weight="700" letter-spacing="0.05em">ENSIASD</text>
+  <text x="100" y="178" text-anchor="middle" fill="#bfdbfe" font-family="system-ui,Segoe UI,sans-serif" font-size="12" font-weight="600" letter-spacing="0.12em">TAROUDANT</text>
+</svg>
